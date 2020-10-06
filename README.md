@@ -40,7 +40,7 @@ Face SDK provides the following APIs:
 
 # Face SDK Trial 
 
-To get started with Face SDK, download free [Face SDK Trial](https://face.3divi.com/products/face_sdk/face_sdk_trial).  
+To get started with Face SDK, download free [Face SDK Trial license](https://face.3divi.com/products/face_sdk/face_sdk_trial).  
 
 _**Note**_: The Trial license is not supported on iOS. Please contact us at face@3divi.com to get the free trial for iOS._
 
@@ -50,7 +50,7 @@ Contact us at face@3divi.com if you have any questions.
 
 # Getting Started
 
-1. Get free [Face SDK Trial](https://face.3divi.com/products/face_sdk/face_sdk_trial) or [purchase the Face SDK license](https://face.3divi.com/pricing).
+1. Get free [Face SDK Trial license](https://face.3divi.com/products/face_sdk/face_sdk_trial) or [purchase the Face SDK license](https://face.3divi.com/pricing).
 2. Clone or download this repository.
 3. Download the Face SDK runtime using Git LFS:
 ```
